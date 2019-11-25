@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/just-do-it/static/css/main.c960ad86.chunk.css",
+    "main.js": "/just-do-it/static/js/main.3567fa03.chunk.js",
+    "main.js.map": "/just-do-it/static/js/main.3567fa03.chunk.js.map",
+    "runtime-main.js": "/just-do-it/static/js/runtime-main.e83985ed.js",
+    "runtime-main.js.map": "/just-do-it/static/js/runtime-main.e83985ed.js.map",
+    "static/js/2.c8f6dbd4.chunk.js": "/just-do-it/static/js/2.c8f6dbd4.chunk.js",
+    "static/js/2.c8f6dbd4.chunk.js.map": "/just-do-it/static/js/2.c8f6dbd4.chunk.js.map",
+    "index.html": "/just-do-it/index.html",
+    "precache-manifest.63a41bc856aea36ab763cf0d5770c766.js": "/just-do-it/precache-manifest.63a41bc856aea36ab763cf0d5770c766.js",
+    "service-worker.js": "/just-do-it/service-worker.js",
+    "static/css/main.c960ad86.chunk.css.map": "/just-do-it/static/css/main.c960ad86.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e83985ed.js",
+    "static/js/2.c8f6dbd4.chunk.js",
+    "static/css/main.c960ad86.chunk.css",
+    "static/js/main.3567fa03.chunk.js"
+  ]
+}
